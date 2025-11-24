@@ -1,0 +1,17 @@
+abbreviation: DI
+available: false
+classes: 32
+colour: 48
+id: 0
+label: DILD
+longName: dildos
+name: Dildos
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/dildos.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 16
