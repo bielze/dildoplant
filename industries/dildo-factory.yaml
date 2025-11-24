@@ -1,7 +1,9 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- DILD
+cargoProduction:
+- DILD
 colour: 1
 fundCostMultiplier: 100
 id: 0
